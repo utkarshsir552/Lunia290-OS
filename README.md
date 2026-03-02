@@ -5,11 +5,14 @@ Lunia290 OS is a highly immersive, iPadOS-inspired digital portfolio designed to
 ## ✨ Key Features
 
 ### 📸 Screenshots
+<img width="1891" height="911" alt="Screenshot 2026-03-02 195643" src="https://github.com/user-attachments/assets/b7ff9b49-2351-4c1a-8a8d-127e5f4305da" />
+<img width="1911" height="911" alt="Screenshot 2026-03-02 195625" src="https://github.com/user-attachments/assets/f80ac867-2a83-4e6d-ba5d-e4fc781ee3e9" />
+<img width="1891" height="913" alt="Screenshot 2026-03-02 195608" src="https://github.com/user-attachments/assets/0b9899ac-e029-4ef4-af69-37d6b5b84ec3" />
+<img width="1874" height="906" alt="Screenshot 2026-03-02 195512" src="https://github.com/user-attachments/assets/012703cc-6ec1-4a2b-8ee4-24c882fbbf37" />
+<img width="1883" height="900" alt="Screenshot 2026-03-02 195714" src="https://github.com/user-attachments/assets/eebcdfa8-e6be-404a-988d-20a4e2ded1e5" />
+<img width="1891" height="910" alt="Screenshot 2026-03-02 195701" src="https://github.com/user-attachments/assets/ee1fc672-a76c-42d8-9c80-170d302c25ad" />
 
-| Desktop View | Mobile View |
-| :---: | :---: |
-| ![Desktop Screenshot](https://picsum.photos/seed/lunia-desktop/1280/720) | ![Mobile Screenshot](https://picsum.photos/seed/lunia-mobile/360/640) |
-| *Lunia290 OS Desktop Interface* | *Lunia290 OS Mobile Experience* |
+
 
 ### 🖥️ Immersive OS Interface
 - **Dynamic Header**: Features a responsive logo with hover animations and a glassmorphic real-time clock.
@@ -49,8 +52,8 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd lunia290-os-portfolio
+git clone https://github.com/lunia290/Lunia290-OS.git
+cd Lunia290-OS
 ```
 
 ### 3. Install Dependencies
@@ -72,3 +75,16 @@ The production-ready files will be generated in the `dist/` directory.
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+## 🎉 Credits
+
+**Built by lunia290** – thank you for using and contributing!  
+Feel free to open issues or pull requests with improvements.
+
+---
+
+> Happy coding!  
+> Let me know if you’d like help customizing or deploying this dashboard.
+
+```
+
